@@ -35,12 +35,12 @@ OOP Concepts             ███████████████  88%
 ```
 
 
-🚀 Featured Project
+## 🚀 Featured Project
 🧠 Quiz Application
 
 A dynamic and interactive quiz platform built in Java, designed to enhance learning and evaluation.
 
-📌 Features:
+## 📌 Features:
 
 Multiple-choice questions
 
@@ -52,9 +52,10 @@ Modular & scalable design
 
 🔗 Check out my repositories for more projects!
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight" height="165"/> <img src="https://streak-stats.demolab.com?user=KundaniBhanuprakash&theme=tokyonight" height="165"/> </p>
-⚽ Beyond Coding
+
+## ⚽ Beyond Coding
 
 ⚽ Playing football whenever I get the chance
 
@@ -62,7 +63,7 @@ Modular & scalable design
 
 💡 Improving problem-solving skills
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
 ---
 
@@ -73,7 +74,6 @@ Feel free to explore my repositories and reach out for collaboration or just to 
   <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,nodejs,mysql" />
 </p>
 
-![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KundaniBhanuprakash&theme=tokyonight)
 
