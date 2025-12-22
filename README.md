@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./developer-animation.png" alt="Software Developer Animation" width="800"/>
+  <img src="./developer-animation.png" width="500"/>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Bhanuprakash+Kundani;Java+Developer;Web+Stack+Learner;Open+to+Opportunities)
