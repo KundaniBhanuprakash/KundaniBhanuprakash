@@ -53,7 +53,12 @@ Modular & scalable design
 🔗 Check out my repositories for more projects!
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight" height="165"/> <img src="https://streak-stats.demolab.com?user=KundaniBhanuprakash&theme=tokyonight" height="165"/> </p>
+## 📊 GitHub Stats
+
+![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KundaniBhanuprakash&theme=tokyonight)
+
 
 ## ⚽ Beyond Coding
 
@@ -73,9 +78,6 @@ Feel free to explore my repositories and reach out for collaboration or just to 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,nodejs,mysql" />
 </p>
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KundaniBhanuprakash&theme=tokyonight)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KundaniBhanuprakash&repo=quiz-application&theme=tokyonight)](https://github.com/KundaniBhanuprakash/quiz-application)
 
