@@ -35,21 +35,35 @@ OOP Concepts             ███████████████  88%
 
 
 
+🚀 Featured Project
+🧠 Quiz Application
 
-## 🚀 Featured Project
+A dynamic and interactive quiz platform built in Java, designed to enhance learning and evaluation.
 
-### Quiz Application
-A dynamic and interactive quiz platform built in Java, designed to enhance learning and evaluation.  
-*Want to know more? Check out my repositories or connect with me!*
+📌 Features:
 
-## ⚽ Beyond Coding
+Multiple-choice questions
 
-- Playing football whenever I get the chance!
+Score calculation
 
-## 🌐 Connect with Me
+User-friendly interface
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KundaniBhanuprakash-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kundhani-bhanu-prakash-b4a81327b)
+Modular & scalable design
 
+🔗 Check out my repositories for more projects!
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight" height="165"/> <img src="https://streak-stats.demolab.com?user=KundaniBhanuprakash&theme=tokyonight" height="165"/> </p>
+⚽ Beyond Coding
+
+⚽ Playing football whenever I get the chance
+
+🧠 Learning new technologies
+
+💡 Improving problem-solving skills
+
+🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
 ---
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi!
