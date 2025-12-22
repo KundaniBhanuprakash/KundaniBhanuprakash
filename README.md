@@ -1,3 +1,6 @@
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Bhanuprakash+Kundani;Java+Developer;Web+Stack+Learner;Open+to+Opportunities)
+
 # Hi there, I'm Bhanuprakash Kundani 👋
 
 Welcome to my GitHub profile!
