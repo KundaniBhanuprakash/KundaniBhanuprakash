@@ -2,12 +2,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Bhanuprakash+Kundani;Java+Developer;Web+Stack+Learner;Open+to+Opportunities)
 
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,nodejs,mysql" />
-</p>
-
-
 # Hi there, I'm Bhanuprakash Kundani 👋
 
 Welcome to my GitHub profile!
@@ -44,6 +38,14 @@ A dynamic and interactive quiz platform built in Java, designed to enhance learn
 ---
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi!
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,nodejs,mysql" />
+</p>
+
+![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight)
+
 
 <!---
 KundaniBhanuprakash/KundaniBhanuprakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
