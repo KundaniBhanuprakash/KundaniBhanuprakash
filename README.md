@@ -1,25 +1,39 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Bhanuprakash+Kundani;Java+Developer;Web+Stack+Learner;Open+to+Opportunities)
 
+<h1 align="center">
+  Hi there, I'm Bhanuprakash Kundani 👋
+</h1>
 
-# Hi there, I'm Bhanuprakash Kundani 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+Developer;Web+Stack+Learner;Passionate+about+Clean+Code" />
+</p>
 
-Welcome to my GitHub profile!
+---
 
 ## 👨‍💻 About Me
 
-- **Profession:** Software Engineer
-- **Primary Language:** JAVA
-- **Passionate About:** Coding and building scalable software solutions
-- **Favorite Project:** [Quiz Application](#) (ask me for more details!)
-- **Motivation:** I enjoy the challenges of coding and am always eager to learn and grow.
+- 💼 **Profession:** Software Engineer  
+- ☕ **Primary Language:** Java  
+- ❤️ **Passionate About:** Coding and building scalable software solutions  
+- 🚀 **Favorite Project:** Quiz Application *(ask me for more details!)*  
+- 🎯 **Motivation:** I enjoy the challenges of coding and I’m always eager to learn and grow  
 
-## 🛠 Top Skills
+---
 
-- JAVA (Core & Advanced)
-- Software Development
-- Problem Solving
-- Object-Oriented Programming
+## 🛠️ Top Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,mysql" />
+</p>
+
+```text
+Java (Core & Advanced)    ████████████████ 90%
+Software Development     ██████████████   85%
+Problem Solving          ██████████████   85%
+OOP Concepts             ███████████████  88%
+
+
 
 
 ## 🚀 Featured Project
