@@ -40,10 +40,6 @@ A dynamic and interactive quiz platform built in Java, designed to enhance learn
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi!
 
-Java        ████████████████ 90%
-JavaScript  ████████████     75%
-HTML/CSS    ████████████     80%
-
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,nodejs,mysql" />
@@ -52,6 +48,9 @@ HTML/CSS    ████████████     80%
 ![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KundaniBhanuprakash&theme=tokyonight)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KundaniBhanuprakash&repo=quiz-application&theme=tokyonight)](https://github.com/KundaniBhanuprakash/quiz-application)
+
 
 
 
