@@ -34,45 +34,52 @@ Problem Solving          ██████████████   85%
 OOP Concepts             ███████████████  88%
 ```
 
+---
 
 ## 🚀 Featured Project
-🧠 Quiz Application
+- 🧠 Quiz Application
 
-A dynamic and interactive quiz platform built in Java, designed to enhance learning and evaluation.
+- A dynamic and interactive quiz platform built in Java, designed to enhance learning and evaluation.
+  
+---
 
 ## 📌 Features:
 
-Multiple-choice questions
+- Multiple-choice questions
 
-Score calculation
+- Score calculation
 
-User-friendly interface
+- User-friendly interface
 
-Modular & scalable design
+- Modular & scalable design
 
 🔗 Check out my repositories for more projects!
 
-## 📊 GitHub Stats
+---
+
 ## 📊 GitHub Stats
 
 ![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KundaniBhanuprakash&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KundaniBhanuprakash&theme=tokyonight)
 
+
+---
 
 ## ⚽ Beyond Coding
 
-⚽ Playing football whenever I get the chance
+- ⚽ Playing football whenever I get the chance
 
-🧠 Learning new technologies
+- 🧠 Learning new technologies
 
-💡 Improving problem-solving skills
+- 💡 Improving problem-solving skills
 
 ## 🌐 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
+
 ---
 
-Feel free to explore my repositories and reach out for collaboration or just to say hi!
+- Feel free to explore my repositories and reach out for collaboration or just to say hi!
 
 ### 🛠️ Tech Stack
 <p align="left">
