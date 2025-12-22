@@ -2,7 +2,13 @@
   <img src="./developer-animation.png" width="1200" height="250"/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Bhanuprakash+Kundani;Java+Developer;Web+Stack+Learner;Open+to+Opportunities)
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Bhanuprakash+Kundani;Web+Stack+Learner;Open+to+Opportunities" 
+    alt="Typing SVG" 
+  />
+</p>
+
 
 <!-- <h1 align="center">
   Hi there, I'm Bhanuprakash Kundani 👋
