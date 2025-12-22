@@ -46,6 +46,9 @@ Feel free to explore my repositories and reach out for collaboration or just to 
 
 ![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KundaniBhanuprakash&theme=tokyonight)
+
+
 
 <!---
 KundaniBhanuprakash/KundaniBhanuprakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
