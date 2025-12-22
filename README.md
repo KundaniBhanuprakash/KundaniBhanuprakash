@@ -21,10 +21,6 @@ Welcome to my GitHub profile!
 - Problem Solving
 - Object-Oriented Programming
 
-Java        ████████████████ 90%
-JavaScript  ████████████     75%
-HTML/CSS    ████████████     80%
-
 
 ## 🚀 Featured Project
 
@@ -43,6 +39,10 @@ A dynamic and interactive quiz platform built in Java, designed to enhance learn
 ---
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi!
+
+Java        ████████████████ 90%
+JavaScript  ████████████     75%
+HTML/CSS    ████████████     80%
 
 ### 🛠️ Tech Stack
 <p align="left">
