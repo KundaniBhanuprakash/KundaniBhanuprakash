@@ -21,6 +21,11 @@ Welcome to my GitHub profile!
 - Problem Solving
 - Object-Oriented Programming
 
+Java        ████████████████ 90%
+JavaScript  ████████████     75%
+HTML/CSS    ████████████     80%
+
+
 ## 🚀 Featured Project
 
 ### Quiz Application
