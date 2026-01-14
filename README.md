@@ -68,13 +68,20 @@ OOP Concepts             ███████████████  88%
 
 <div align="center">
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight" height="170"/>
+<img
+  src="https://kundani-github-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight"
+  height="170"
+/>
 
-<img src="https://streak-stats.demolab.com?user=KundaniBhanuprakash&theme=tokyonight" height="170"/>
+<img
+  src="https://kundani-github-stats.vercel.app/api/top-langs/?username=KundaniBhanuprakash&layout=compact&theme=tokyonight"
+  height="170"
+/>
 
 </div>
+>
 
 
 
