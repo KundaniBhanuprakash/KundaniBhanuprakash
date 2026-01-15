@@ -101,7 +101,6 @@ OOP Concepts             ███████████████  88%
 <p align="left"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
 
 ---
-
 <div align="center">
 
 ## 📊 GitHub Statistics
