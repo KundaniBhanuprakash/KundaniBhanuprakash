@@ -68,21 +68,14 @@ OOP Concepts             ███████████████  88%
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## 🧩 LeetCode Statistics
 
-<img
-  src="https://kundani-github-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight"
-  height="170"
-/>
-
-<img
-  src="https://kundani-github-stats.vercel.app/api/top-langs/?username=KundaniBhanuprakash&layout=compact&theme=tokyonight"
-  height="170"
+<img 
+  src="https://leetcard.jacoblin.cool/12139000890519?theme=dark&font=Baloo&ext=heatmap" 
+  alt="LeetCode Stats"
 />
 
 </div>
-
-
 
 
 ---
@@ -97,6 +90,24 @@ OOP Concepts             ███████████████  88%
 
 ## 🌐 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img
+  src="https://kundani-github-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight"
+  height="170"
+/>
+
+<img
+  src="https://kundani-github-stats.vercel.app/api/top-langs/?username=KundaniBhanuprakash&layout=compact&theme=tokyonight"
+  height="170"
+/>
+
+</div>
 
 ---
 
