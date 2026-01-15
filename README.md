@@ -102,11 +102,12 @@ OOP Concepts             ███████████████  88%
 ## 📊 GitHub Statistics
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=KundaniBhanuprakash&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
 />
 
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KundaniBhanuprakash&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KundaniBhanuprakash&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
 />
 
 </div>
@@ -121,7 +122,8 @@ OOP Concepts             ███████████████  88%
   <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,nodejs,mysql" />
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KundaniBhanuprakash&repo=quiz-application&theme=tokyonight)](https://github.com/KundaniBhanuprakash/quiz-application)
+[![Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=KundaniBhanuprakash&repo=quiz-application&theme=tokyonight&cache_seconds=86400)](https://github.com/KundaniBhanuprakash/quiz-application)
+
 
 
 
