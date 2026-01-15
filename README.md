@@ -80,6 +80,15 @@ OOP Concepts             ███████████████  88%
 
 ---
 
+## 🧠 Problem Solving
+
+- 🧩 Active on LeetCode
+- 🔁 Regular practice of DSA
+- ⚙️ Strong focus on Java-based solutions
+- 🎯 Improving algorithmic thinking daily
+
+---
+
 ## ⚽ Beyond Coding
 
 - ⚽ Playing football whenever I get the chance
